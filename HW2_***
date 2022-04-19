@@ -21,7 +21,7 @@ function checkage(age) {
         } else {
             alert("Technical work")
         }   
-    } alert("Error!!!")
+    } else alert("Error!!!")
 }
 </script>
 </body>
